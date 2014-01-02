@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climatica", "UITrial\Climatica.csproj", "{67E51934-452D-49C0-B178-82B71691690E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveTileScheduledTaskAgent", "..\..\Sample Codes\Live Tile 2\LiveTile\LiveTileScheduledTaskAgent\LiveTileScheduledTaskAgent.csproj", "{333CDC23-D213-4BAC-B0C4-BF26E6615DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E51934-452D-49C0-B178-82B71691690E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E51934-452D-49C0-B178-82B71691690E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E51934-452D-49C0-B178-82B71691690E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67E51934-452D-49C0-B178-82B71691690E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E51934-452D-49C0-B178-82B71691690E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E51934-452D-49C0-B178-82B71691690E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{333CDC23-D213-4BAC-B0C4-BF26E6615DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333CDC23-D213-4BAC-B0C4-BF26E6615DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333CDC23-D213-4BAC-B0C4-BF26E6615DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333CDC23-D213-4BAC-B0C4-BF26E6615DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

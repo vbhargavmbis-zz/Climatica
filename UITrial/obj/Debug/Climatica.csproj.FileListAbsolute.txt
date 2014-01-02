@@ -1,0 +1,105 @@
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\Background.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\AppManifest.xaml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\UITrial.xap
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\Climatica.csprojResolveAssemblyReference.cache
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\App.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\MainPage.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\Page1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\PanoramaPage1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\UITrial.g.resources
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\26.Climatica - Live Tile\UITrial\obj\Debug\XapCacheFile.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\Background.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\AppManifest.xaml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\UITrial.xap
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\Climatica.csprojResolveAssemblyReference.cache
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\App.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\MainPage.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\Page1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\PanoramaPage1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\UITrial.g.resources
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\obj\Debug\XapCacheFile.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\27.Climatica - Live Tile - Experimentation\UITrial\Bin\Debug\Ree7.TileToolkit.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\Background.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\AppManifest.xaml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\UITrial.xap
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\Ree7.TileToolkit.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\Climatica.csprojResolveAssemblyReference.cache
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\App.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\MainPage.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\Page1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\PanoramaPage1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\UITrial.g.resources
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\29.Climatica - Live Tile - Dev\UITrial\obj\Debug\XapCacheFile.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\Background.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\Ree7.TileToolkit.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\Climatica.csprojResolveAssemblyReference.cache
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\App.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\MainPage.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\Page1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\PanoramaPage1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\UITrial.g.resources
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\AppManifest.xaml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\Bin\Debug\UITrial.xap
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\30.Climatica - Live Tile - Notif.Option\UITrial\obj\Debug\XapCacheFile.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\ApplicationIcon.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\Background.png
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\AppManifest.xaml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\UITrial.xap
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\Ree7.TileToolkit.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\LiveTileScheduledTaskAgent.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\obj\Debug\Climatica.csprojResolveAssemblyReference.cache
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\obj\Debug\App.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\obj\Debug\MainPage.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\obj\Debug\Page1.g.i.cs
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\obj\Debug\UITrial.g.resources
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\obj\Debug\UITrial.dll
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\obj\Debug\UITrial.pdb
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\obj\Debug\XapCacheFile.xml
+C:\Users\Bhargav\Documents\Visual Studio 2010\Projects\Weather - 1st App\31.Climatica - Live Tile - Notif.Option-II\UITrial\Bin\Debug\Images\Background.png

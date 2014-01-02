@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="UITrial" EntryPointType="UITrial.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="UITrial" Source="UITrial.dll" />
+    <AssemblyPart x:Name="LiveTileScheduledTaskAgent" Source="LiveTileScheduledTaskAgent.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Ree7.TileToolkit" Source="Ree7.TileToolkit.dll" />
+  </Deployment.Parts>
+</Deployment>
